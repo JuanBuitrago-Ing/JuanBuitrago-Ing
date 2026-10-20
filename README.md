@@ -1,16 +1,15 @@
-## Hi there 👋
+Hola, soy Juan Camilo Céspedes Buitrago 👋
 
-<!--
-**JuanBuitrago-Ing/JuanBuitrago-Ing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de último año de Ingeniería Electrónica en la Universidad de los Llanos (Villavicencio, Colombia). Uso la tecnología para resolver necesidades de la comunidad y del territorio: desarrollo web, inteligencia artificial, IoT y simulación 3D.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Proyectos
+Proyecto	Descripción	Tecnologías
+Observatorio Solar	Plataforma web que muestra en tiempo real la radiación solar del Campus Restrepo. Presentada en el congreso CICI 2026. Ver en vivo	JavaScript, Three.js, WebSocket
+CÓNDOR	Identificación de aves por su canto con IA en una Raspberry Pi, para monitorear la biodiversidad en campo.	Python, TensorFlow, scikit-learn, Flask
+Herramientas
+Lenguajes: Python · JavaScript · C# · MATLAB · HTML/CSS
+IA y datos: TensorFlow/Keras · scikit-learn · librosa · SQLite
+Web: Three.js · Flask · WebSocket
+Hardware y 3D: Raspberry Pi · Unity 3D · Linux
+Contacto
+📧 buitragito23@gmail.com
