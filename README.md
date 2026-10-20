@@ -6,7 +6,7 @@ Estudiante de último año de **Ingeniería Electrónica** en la Universidad de 
 
 | Proyecto | Descripción | Tecnologías |
 | --- | --- | --- |
-| [Observatorio Solar](https://github.com/JuanBuitrago-Ing/Radiacion-Solar) | Plataforma web que muestra en tiempo real la radiación solar del Campus Restrepo. Presentada en el congreso CICI 2026. [Ver en vivo](https://JuanBuitrago-Ing.github.io/radiacion-solar) | JavaScript, Three.js, WebSocket |
+| [Observatorio Solar](https://github.com/JuanBuitrago-Ing/Radiacion-Solar) | Plataforma web que muestra en tiempo real la radiación solar del Campus Restrepo. Presentada en el congreso CICI 2026. [Ver en vivo](https://JuanBuitrago-Ing.github.io/Radiacion-Solar) | JavaScript, Three.js, WebSocket |
 | [CÓNDOR](https://github.com/JuanBuitrago-Ing/condor) | Identificación de aves por su canto con IA en una Raspberry Pi, para monitorear la biodiversidad en campo. | Python, TensorFlow, scikit-learn, Flask |
 
 ## Herramientas
